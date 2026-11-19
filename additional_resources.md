@@ -2,7 +2,7 @@
 
 ## VCF Core
 
-An ontology for representing Variant Call Format (VCF) data as RDF.
+An semantic vocabulary for representing Variant Call Format (VCF) data as RDF.
 
 Submitted as a research paper to the [SWAT4HCLS 2027 conference](https://www.swat4ls.org/) (Basel, 1–4 February 2027).
 
